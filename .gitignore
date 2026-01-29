@@ -1,0 +1,17 @@
+#Byte compiled
+__pycache__/
+*.py[cod]
+
+#Distribution / packaging
+.Python
+.vscode/
+
+#requirements
+env/
+requirements.txt
+
+#docker files like docker compose and dockerfile
+docker-compose.yml
+Dockerfile
+
+
